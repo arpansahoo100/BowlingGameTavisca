@@ -1,0 +1,7 @@
+C:\Users\asahoo\source\repos\BowlingGame\BowlingGame\bin\Debug\BowlingGame.exe.config
+C:\Users\asahoo\source\repos\BowlingGame\BowlingGame\bin\Debug\BowlingGame.exe
+C:\Users\asahoo\source\repos\BowlingGame\BowlingGame\bin\Debug\BowlingGame.pdb
+C:\Users\asahoo\source\repos\BowlingGame\BowlingGame\obj\Debug\BowlingGame.csproj.CoreCompileInputs.cache
+C:\Users\asahoo\source\repos\BowlingGame\BowlingGame\obj\Debug\BowlingGame.exe
+C:\Users\asahoo\source\repos\BowlingGame\BowlingGame\obj\Debug\BowlingGame.pdb
+C:\Users\asahoo\source\repos\BowlingGame\BowlingGame\obj\Debug\BowlingGame.csprojAssemblyReference.cache
