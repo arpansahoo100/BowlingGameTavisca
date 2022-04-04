@@ -186,6 +186,7 @@
             {
                 CalculateScoreForAFrame();
             }
+            Console.WriteLine("Score Till Now: " + Score);;
         }
 
         private void ColorMessage(ConsoleColor color, string message)
